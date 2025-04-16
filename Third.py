@@ -87,13 +87,13 @@ print(type(y))
 # represent in double or single  or tripple quote '_' , "_" , '''_''' .  single or double single line ke liye use kiya jata h.
 
 # Single line 
-x = 'Python'
-print(x)
-y = "JavaScript"
-print(y)
-z = '''C++'''
-print(z)
-print(x,y,z)
+# x = 'Python'
+# print(x)
+# y = "JavaScript"
+# print(y)
+# z = '''C++'''
+# print(z)
+# print(x,y,z)
 
 # Multi line 
 #x ='Python
